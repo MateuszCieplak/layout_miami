@@ -8,7 +8,6 @@
 
 ### Key features:
 - **Page blocks**: Implement different blocks of the landing page, following the design in a simple way.
-- **Figma design reference**: The design reference can be found in the provided [MYBIKE landing Figma link](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?t=CJGCIbmarYnKEAfW-0).
 - **Implementation**: Follow the video lessons and create the page elements without aiming for pixel-perfect precision, focusing on simplicity.
 - **Deployment**: Each completed block is deployed and submitted as a demo link via a Pull Request.
 - **Progressive development**: After each block, changes are committed, pushed, and the demo is updated.
